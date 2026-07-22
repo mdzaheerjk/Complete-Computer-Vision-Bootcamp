@@ -1,4 +1,4 @@
-# 🎯 Complete Computer Vision Bootcamp 2026
+# 🎯 Complete Computer Vision Bootcamp
 
 A **comprehensive, production-grade learning repository** covering the entire Computer Vision ecosystem from foundational OpenCV techniques to cutting-edge deep learning architectures. This bootcamp combines theoretical rigor with practical, hands-on Jupyter notebooks.
 
